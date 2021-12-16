@@ -1,0 +1,2 @@
+esend: "http://localhost:9200"
+index: "scala_emp101"
